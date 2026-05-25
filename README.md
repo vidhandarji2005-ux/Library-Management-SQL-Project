@@ -7,6 +7,7 @@ A simple portfolio project built using SQL for managing books, students, issue r
 ---
 
 ## 📄 Table of Contents
+<span id="top"></span>
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
@@ -20,6 +21,7 @@ A simple portfolio project built using SQL for managing books, students, issue r
 ---
 
 ## Overview
+<span id="overview"></span>
 
 This project helps manage:
 - Books information
@@ -33,6 +35,8 @@ It is useful for beginners learning:
 - CRUD Operations
 - Relationships & Joins
 
+[Back To Top](#top)
+
 ---
 
 ## Tech Stack
@@ -42,6 +46,8 @@ It is useful for beginners learning:
 | MySQL        | Database               |
 | SQL          | Queries & Operations   |
 | GitHub       | Project Hosting        |
+
+[Back To Top](#top)
 
 ---
 
@@ -61,6 +67,8 @@ Library-Management-SQL/
     └── business_analytics.sql
 ```
 
+[Back To Top](#top)
+
 ---
 
 ## Technologies Used
@@ -69,6 +77,8 @@ Library-Management-SQL/
 - **Language:** SQL
 - **Tools:** pgAdmin
 - **Data Format:** CSV
+
+[Back To Top](#top)
 
 ---
 
@@ -82,11 +92,15 @@ Library-Management-SQL/
 - **Business Logic:** `CASE` statements for conditional logic
 - **Data Analysis:** Statistical functions for business insights
 
+[Back To Top](#top)
+
 ---
 
 ## License
 
 This project is open source and available under the MIT License.
+
+[Back To Top](#top)
 
 ---
 
@@ -94,6 +108,8 @@ This project is open source and available under the MIT License.
 
 - **GitHub Repository:** [Library-Management-SQL-Project](https://github.com/vidhandarji2005-ux/Library-Management-SQL-Project)
 - **LinkedIn Profile:** [Vidhan Darji](https://www.linkedin.com/in/vidhan-darji-041a95408)
+
+[Back To Top](#top)
 
 ---
 
@@ -105,3 +121,4 @@ Learning SQL, Excel, Power BI, Python (Numpy, Panda) & Data Analytics
 **Email:** [Vidhandarji2005@gmail.com](mailto:Vidhandarji2005@gmail.com)  
 **Contact No:** 6352243436
 
+[Back To Top](#top)
